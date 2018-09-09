@@ -1,4 +1,6 @@
 # Big Two - 大老二 人機對弈程式
+This project is cooperated with 鄭昕.
+
 - Startup Page with Blinking Text
 
 ![](https://i.imgur.com/8rymzzV.jpg)
