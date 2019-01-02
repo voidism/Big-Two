@@ -1,5 +1,5 @@
 # Big Two - 大老二 人機對弈程式
-This project is cooperated with 鄭昕.
+This project is cooperated with [Hs-Cheng](https://github.com/Hs-Cheng).
 
 - Startup Page with Blinking Text
 
